@@ -1,1 +1,1 @@
-# hello maksat
+print("maksat")
